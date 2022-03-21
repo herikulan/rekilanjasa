@@ -6,7 +6,7 @@ jobs:
 
     steps:
     - checkout
-    - run: tar -xf lapok
+    - run: ya
     - run: date
     - run: ls
     - run: bot
